@@ -4,10 +4,15 @@
       <div class="col-md-3 col-lg-2"></div>
       <div class="col-md-9 col-lg-10">
         <div id="home-section" class="head-slider">
-          <div class="intro-form">
+          <div class="intro-form" data-aos="fade-up" data-aos-delay="1500" data-aos-duration="1000">
             <div class="home-slider-img">
               <div class="slider-overlay">
-                <div class="home-slider-social-overlay animated zoomInLeft slow delay-3s">
+                <!-- <div
+                  class="home-slider-social-overlay"
+                  data-aos="fade-up"
+                  data-aos-delay="300"
+                  data-aos-duration="1000"
+                >
                   <a rel="nofollow" target="_blank" href="#" class="no-line">
                     <font-awesome-icon :icon="['fab', 'facebook-f']" />
                   </a>
@@ -23,7 +28,7 @@
                   <a rel="nofollow" target="_blank" href="#" class="no-line">
                     <font-awesome-icon :icon="['fab', 'youtube']" />
                   </a>
-                </div>
+                </div>-->
 
                 <div class="slider-caption">
                   <h1 class="slider-title animated fadeInUp delay-1s slow">نحن نبني حلمك</h1>
@@ -31,11 +36,15 @@
                     class="slider-desc"
                   >يهتم الاتحاد بأنماط الحياة العصرية الراقية لذا صمم لك مجموعات عقارية بمختلف الديكورات والتشطيبات والتي يتم تسليمها لك في الوقت المحدد كما نتابع معك في خدمات ما بعد البيع لنتأكد من رضائك عن الجودة العامة ومساعدتك في أي مشكلة قد تواجهك.</p>
 
+                  <p
+                    class="slider-desc"
+                  >تمتع بأفضل الوحدات السكنية بأنظمة اقتصادية تناسب جميع الشرائح المختلفة لتختر منها ما يناسبك</p>
+
                   <div class="btn-links animated fadeInDown delay-2s slow">
                     <a href="#about-section" class="no-line">
                       <font-awesome-icon icon="angle-double-right" />المزيد عنا
                     </a>
-                    <a rel="nofollow" href="tel:029320483473" class="no-line">
+                    <a rel="nofollow" href="tel:01009100206" class="no-line">
                       <font-awesome-icon icon="mobile-alt" />اتصل بنا الأن
                     </a>
                   </div>
@@ -119,7 +128,13 @@
           </div>
         </div>
 
-        <div id="services-section" class="services section">
+        <div
+          id="services-section"
+          class="services section"
+          data-aos="zoom-in-right"
+          data-aos-delay="300"
+          data-aos-duration="1000"
+        >
           <div class="side-section-title">
             <h2>خدماتنا</h2>
           </div>
@@ -264,13 +279,23 @@
           <div class>
             <div class="row no-gutters">
               <div class="col-md-12 col-lg-4">
-                <div class="about-img">
+                <div
+                  class="about-img"
+                  data-aos="flip-right"
+                  data-aos-delay="400"
+                  data-aos-duration="1000"
+                >
                   <img src="https://3.top4top.net/p_1341viyl52.png" alt class="image-100" />
                 </div>
               </div>
 
               <div class="col-md-12 col-lg-8">
-                <div class="about-caption">
+                <div
+                  class="about-caption"
+                  data-aos="flip-left"
+                  data-aos-delay="800"
+                  data-aos-duration="1000"
+                >
                   <h2 class="about-title">رؤيتنا في الاتحاد للاستثمار والتطوير العقاري</h2>
 
                   <p
@@ -315,18 +340,29 @@
           <font-awesome-icon icon="exclamation-triangle" />
         </div>
 
-        <div id="contact-section" class="contact section">
+        <div id="contact-section"></div>
+        <div
+          class="contact section"
+          data-aos="slide-up"
+          data-aos-delay="300"
+          data-aos-duration="1000"
+        >
           <div class="side-section-title contact-title">
             <h2>تواصل معنا</h2>
           </div>
 
           <div class="contact-info text-center">
-            <a rel="nofollow" target="_blank" href="#" class="no-line">
-              <font-awesome-icon icon="map-marker-alt" />25 شارع لبنان المهندسين الجيزة
+            <a
+              rel="nofollow"
+              target="_blank"
+              href="https://www.google.com/maps/place/Royal+Towers+6+October+Egypt/@29.9708718,30.941347,17z/data=!3m1!4b1!4m5!3m4!1s0x14585658d9e69e9b:0x83c70fc195928237!8m2!3d29.9708672!4d30.9391583"
+              class="no-line"
+            >
+              <font-awesome-icon icon="map-marker-alt" />ابراج رويال, السادس من اكتوبر, الجيزة
             </a>
 
             <a rel="nofollow" href="tel:029320483473" class="no-line">
-              <font-awesome-icon icon="mobile-alt" />0203345832334
+              <font-awesome-icon icon="mobile-alt" />01009100206
             </a>
           </div>
 

@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed-navbar animated zoomIn slow">
+  <div class="fixed-navbar" data-aos="zoom-in-left" data-aos-delay="1000" data-aos-duration="1000">
     <div class="logo">
       <img src="https://1.top4top.net/p_1339k8e7z1.png" alt />
     </div>
@@ -42,7 +42,7 @@
       </li>
 
       <li>
-        <a rel="nofollow" href="tel:029320483473" class="no-line">
+        <a rel="nofollow" href="tel:01009100206" class="no-line">
           <font-awesome-icon icon="mobile-alt" />اتصل بنا الأن
         </a>
       </li>

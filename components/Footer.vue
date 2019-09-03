@@ -25,7 +25,7 @@
                 <font-awesome-icon icon="cogs" />خدماتنا
               </a>
 
-              <a href="tel:1234456677" class="no-line">
+              <a href="tel:01009100206" class="no-line">
                 <font-awesome-icon icon="mobile-alt" />اتصل بنا الأن
               </a>
 
@@ -33,8 +33,12 @@
                 <font-awesome-icon icon="paper-plane" />ارسل رسالة
               </a>
 
-              <a href="#" class="no-line">
-                <font-awesome-icon icon="star" />اعطنا تقيما
+              <a href="tel:01009100206" class="no-line">
+                <font-awesome-icon icon="mobile-alt" />01009100206
+              </a>
+
+              <a href="tel:01004750956" class="no-line">
+                <font-awesome-icon icon="mobile-alt" />01004750956
               </a>
             </div>
           </div>
@@ -63,7 +67,7 @@
                 </button>
               </form>
 
-              <div class="home-slider-social-overlay footer-social">
+              <!-- <div class="home-slider-social-overlay footer-social">
                 <a rel="nofollow" target="_blank" href="#" class="no-line">
                   <font-awesome-icon :icon="['fab','facebook-f']" />
                 </a>
@@ -79,7 +83,7 @@
                 <a rel="nofollow" target="_blank" href="#" class="no-line">
                   <font-awesome-icon :icon="['fab','youtube']" />
                 </a>
-              </div>
+              </div>-->
             </div>
           </div>
         </div>

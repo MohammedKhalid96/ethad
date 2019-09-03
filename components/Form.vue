@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-modal id="modal-center" centered title="تواصل معنا">
+    <b-modal id="modal-center" centered title="تواصل معنا لتعرف المزيد">
       <form id="app" action="#" method="post">
         <div>
           <label for="name"></label>

@@ -26,8 +26,8 @@
 
 .home-slider-img {
   position: relative;
-  background-image: linear-gradient(#0c1f33e3, #c7722cd3),
-    url("https://2.top4top.net/p_13395d3cv1.jpg");
+  background-image: linear-gradient(#0c1f33, #c7722c81),
+    url("https://3.top4top.net/p_1341p7y8a1.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -290,7 +290,6 @@
 }
 
 .slider-caption {
-  width: 65%;
   color: #fff;
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
@@ -325,7 +324,7 @@
 .about-caption {
   color: #fff;
   padding: 10px 20px;
-  margin-top: 30px;
+  margin-top: 40px;
   li {
     list-style: none;
     padding: 10px 10px 0 10px;
@@ -334,6 +333,7 @@
   svg {
     width: 15px;
     margin-left: 10px;
+    color: #c7712c;
   }
 
   .about-links {

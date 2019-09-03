@@ -33,12 +33,12 @@
         </li>
 
         <li>
-          <a rel="nofollow" href="tel:029320483473" class="no-line">
+          <a rel="nofollow" href="tel:01009100206" class="no-line">
             <font-awesome-icon icon="mobile-alt" />اتصل بنا الأن
           </a>
         </li>
 
-        <div class="popup-social">
+        <!-- <div class="popup-social">
           <a rel="nofollow" target="_blank" href="#" class="no-line">
             <font-awesome-icon :icon="['fab', 'facebook-f']" />
           </a>
@@ -54,7 +54,7 @@
           <a rel="nofollow" target="_blank" href="#" class="no-line">
             <font-awesome-icon :icon="['fab', 'youtube']" />
           </a>
-        </div>
+        </div>-->
       </div>
     </div>
 

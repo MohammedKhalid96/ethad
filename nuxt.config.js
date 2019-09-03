@@ -29,11 +29,15 @@ export default {
   /*
    ** Global CSS
    */
-  css: ["@/assets/sass/main.scss"],
+  css: ["@/assets/sass/main.scss", "aos/dist/aos.css"],
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ["~/plugins/vue-carousel", "~/plugins/font-awesome.js"],
+  plugins: [
+    "~/plugins/vue-carousel",
+    "~/plugins/font-awesome.js",
+    "~/plugins/aos.js"
+  ],
   /*
    ** Nuxt.js dev-modules
    */
@@ -70,7 +74,7 @@ export default {
     extend(config, ctx) {}
   },
   router: {
-    base: "/ethad-landingpage/",
+    base: "/landing-page/",
     scrollBehavior(to, from, savedPosition) {
       return { x: 0, y: 0 };
     }
