@@ -10,11 +10,8 @@
                 <img src="https://1.top4top.net/p_1339k8e7z1.png" alt />
               </div>
               <p class="footer-about-p">
-                لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج
-                أليايت,سيت دو أيوسمود تيمبور أنكايديديونتيوت لابوري ات دولار
-                ماجنا أليكيوا يوت انيم أد مينيم فينايم,كيواس نوستريد أكسير
-                سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو
-                كونسيكيوات
+                مشاريع سكنية وإدارية وتجارية ورياضية وترفيهية يقدمها لك الاتحاد بتصاميم إبداعية ومبتكرة غير مسبوقة
+                تجربة مختلفة واستثنائية في الاتحاد للاستثمار والتطوير العقاري مع أحدث الأساليب المتبعة في التخطيط والتصميم والتنفيذ والإدارة لتحصل على ما تريد بأفضل جودة ممكنة.
               </p>
             </div>
           </div>
@@ -24,15 +21,15 @@
               <div class="side-section-title footer-title">
                 <h2>روابط</h2>
               </div>
-              <a href="javaScript:void(0);" class="no-line navbar-btn">
+              <a href="#services-section" class="no-line navbar-btn">
                 <font-awesome-icon icon="cogs" />خدماتنا
               </a>
 
-              <a href="#" class="no-line">
+              <a href="tel:1234456677" class="no-line">
                 <font-awesome-icon icon="mobile-alt" />اتصل بنا الأن
               </a>
 
-              <a href="#" class="no-line">
+              <a href="javaScript:void(0)" class="no-line" v-b-modal.modal-center>
                 <font-awesome-icon icon="paper-plane" />ارسل رسالة
               </a>
 
@@ -61,8 +58,7 @@
 
                 <button class="btn btn-theme btn-radius">
                   <span>
-                    <i class="fas fa-paper-plane"></i>
-                    إرسال
+                    <font-awesome-icon icon="paper-plane" />إرسال
                   </span>
                 </button>
               </form>
